@@ -17,8 +17,10 @@ local verification results.
 
 Run the commands at the root of this folder. CPU programs require a C11
 compiler with Pthreads and an OpenMP compiler. MPI targets require `mpicc`
-and an MPI runtime. CUDA targets require `nvcc` and an NVIDIA GPU to run.
-The convolution checker uses Python 3.8 or newer.
+and an MPI runtime. Build the CUDA targets on a machine with `nvcc` and run
+them on a machine with a CUDA-capable NVIDIA GPU. The GPU can be on a remote
+host. The Spring 2024 HW4 instructions list Chameleon as an option. The
+convolution checker uses Python 3.8 or newer.
 
 ```sh
 make cpu mpi
