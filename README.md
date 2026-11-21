@@ -1,8 +1,8 @@
 # ECE 566 Parallel Processing
 
-A source-only collection of the Spring 2024 coding assignments and final
-project. Homework 1 was written. Program inputs, build commands, and checks
-are below. [DESIGN.md](DESIGN.md) describes the algorithms and records the
+I took ECE 566 (Parallel Processing) in Spring 2024. This repository collects
+my coding assignments and final project from that semester. Homework 1 was
+written. Program inputs, build commands, and checks are below. [DESIGN.md](DESIGN.md) describes the algorithms and records the
 local verification results.
 
 | Folder | Programs |
